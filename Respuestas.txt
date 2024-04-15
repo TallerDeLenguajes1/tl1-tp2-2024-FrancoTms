@@ -1,0 +1,12 @@
+2.f- 
+No se puede ver el archivo tp2_1_2.c porque ahora esoy ubicado en la branch main, y dicho archivo está en la branch Opcion_2.
+
+Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+Ahora se ve el último commit realizado dentro de la branch main, y una nueva rama
+que sale desde la branch Opcion_2.
+
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+
+Se combinaron las ramas main y Opcion_2, ahora se pueden ver el contenido de ambas sin tener que cambiar de branch.
